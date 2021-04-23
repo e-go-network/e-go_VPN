@@ -81,6 +81,25 @@ E-go加速器已全面支持苹果iPhone&iPad、Android手机、Window7/Win10等
 
 
 
+
+
+<h2>备用下载地址：</h2>
+
+
+
+Windows版下载地址：http://moredless.com/download/ego-pc-2.03.zip
+
+
+
+
+安卓版下载地址：https://www.easy-go268.com/download/ego-3.0.1.apk
+
+
+
+
+
+
+
 <h2>E-go加速器用户福利：分享五个用户注册，即可获赠一个月试用套餐（赠送优惠券），被分享的用户首次享受八折优惠！</h2>
 
 
