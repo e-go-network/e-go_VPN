@@ -74,7 +74,7 @@ E-go加速器已全面支持苹果iPhone&iPad、Android手机、Window7/Win10等
 
 2. 点击安装按钮, 进入一键安装。
 
-3. 其它应用市场安装，认准<strong>'E-go'</strong>关键字。
+3. 其它应用市场安装，认准&nbsp;<strong>'E-go'</strong>&nbsp;关键字。
 
 
 
