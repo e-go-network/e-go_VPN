@@ -92,8 +92,7 @@ Windows版下载地址：http://moredless.com/download/ego-pc-2.03.zip
 
 
 
-安卓版下载地址：https://www.easy-go268.com/download/ego-3.0.1.apk
-
+安卓版下载地址：http://moredless.com/download/ego-3.0.1.apk
 
 
 
