@@ -48,7 +48,7 @@ E-go加速器已全面支持苹果iPhone&iPad、Android手机、Window7/Win10等
 <h2>精彩活动&劲爆消息</h2>
 
 
-注册用户，免费用三天<strong> + </strong>七天无理由退款！
+注册用户，免费用三天&nbsp;<strong>+</strong>&nbsp;七天无理由退款！
 
 分享五个注册用户再送: <strong>免费月卡</strong>
 
