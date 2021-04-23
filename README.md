@@ -54,7 +54,7 @@ E-go加速器已全面支持苹果iPhone&iPad、Android手机、Window7/Win10等
 
 
 
-点击下载，快人一步 -> <a href="moredless.com" target="_blank">E-go加速器官方下载</a>
+点击下载，快人一步 -> <a href="http://moredless.com/" target="_blank">E-go加速器官方下载</a>
 
 
 
@@ -71,9 +71,14 @@ E-go加速器已全面支持苹果iPhone&iPad、Android手机、Window7/Win10等
 1. 打开华为应用市场，搜索关键字‘E-go’。如下图所示
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/29272821/109922705-c2640300-7cf8-11eb-8ed6-5e6f7476c90f.png"><img src="https://user-images.githubusercontent.com/29272821/109922705-c2640300-7cf8-11eb-8ed6-5e6f7476c90f.png" alt="E-go网络加速器" title="E-go网络加速器下载" style="max-width:100%;"></a></p>
 
+
 2. 点击安装按钮, 进入一键安装。
-3. 其它应用市场安装，认准'E-go'关键字。
-E-go加速器用户福利：分享五个用户注册，即可获赠一个月试用套餐（赠送优惠券），被分享的用户首次享受八折优惠！
+
+3. 其它应用市场安装，认准<strong>'E-go'</strong>关键字。
+
+
+
+<h2>E-go加速器用户福利：分享五个用户注册，即可获赠一个月试用套餐（赠送优惠券），被分享的用户首次享受八折优惠！</h2>
 
 
 
